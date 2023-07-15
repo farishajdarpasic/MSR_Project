@@ -1,6 +1,6 @@
 <launch>
 
-  <arg name="rviz_cfg"                default="/home/faris/Desktop/Project/Code/rviz1.rviz" />
+  <arg name="rviz_cfg"                default="rviz1.rviz" />
 
   <!-- sim time for convenience, if playing a rosbag -->
   <arg name="use_sim_time"            default="true"/>
