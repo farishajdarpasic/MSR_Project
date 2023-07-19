@@ -8,7 +8,7 @@
 
 
   <!-- Localization-only mode -->
-  <arg name="localization"      default="true"/>
+  <arg name="localization"      default="false"/>
   <arg     if="$(arg localization)" name="rtabmap_args"  default=""/>
   <arg unless="$(arg localization)" name="rtabmap_args"  default="--delete_db_on_start"/>
   
