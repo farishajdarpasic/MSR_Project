@@ -13,7 +13,10 @@ object-based mapping for mobile robots in indoor environments. The goal of the p
 A gazebo simulation of an indoor environment is used. Through this environment we move a robot which collects RGBD and Lidar data.
 
 #### gazebo indoor environment
-![gazebo_world](images/office_small.jpg "camera motion")
+![gazebo_world](images/office_small.jpg "simulated world")
 
 ### Camera motion visualisation
 ![camera_trajectory](images/camera_motion.gif "camera motion")
+
+### Experimental map segmentation visualised
+![map_segmentation](Results/seg_map/seg_map.png "segmented occupancy grid")
