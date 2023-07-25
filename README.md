@@ -19,4 +19,13 @@ A gazebo simulation of an indoor environment is used. Through this environment w
 ![camera_trajectory](images/camera_motion.gif "camera motion")
 
 ### Experimental map segmentation visualised
-![map_segmentation](Results/seg_map/seg_map.png "segmented occupancy grid")
+#### Label colors for reference
+![label_colors](color_labels.png "label colors")
+#### segmentation by choosing the most repeated label for a cell in occupancy grid
+![map_segmentation](Results/seg_map/seg_map_max_count.png "segmented occupancy grid")
+
+#### segmentation by multiplying the past probabilities for each label with new probabilities for the label in the same cell
+![map_segmentation](Results/seg_map/seg_map_bayesian_multiply_probs.png "segmented occupancy grid")
+
+#### segmentation by adding the label probabilities for the same cell and finding maximum probability after softmax in each cell of occupancy grid
+![map_segmentation](Results/seg_map/seg_map_add_probs.png "segmented occupancy grid")
