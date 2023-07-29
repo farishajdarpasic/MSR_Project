@@ -34,3 +34,6 @@ A gazebo simulation of an indoor environment is used. Through this environment w
 
 #### A slightly varied version of the addition technique
 ![map_segmentation](Results/seg_map/seg_map_add_probs_new.png "segmented occupancy grid")
+
+#### Assigning label based on the polygon
+![map_segmentation](Results/seg_map/seg_map_polygon_label.png "segmented occupancy grid")
