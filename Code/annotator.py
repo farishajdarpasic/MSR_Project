@@ -148,13 +148,13 @@ def imshow_select(data, selector='lasso', bbox=False):
 
 if __name__ == '__main__':
     from skimage.data import coins
-    data = '/home/ajay/work/msc_project/git/MSR_Project/Results/seg_map/sunrgbd_seg_map_polygon_label_wo_polygons.png'
+    data = '/home/ajay/work/msc_project/git/MSR_Project/Results/seg_map/sunrgbd_seg_map_dependent_probs_real_size.png'
     
     
     img = np.asarray(Image.open(data).convert('L'))
 #     data = data.astype(np.uint8)
 #     print(data)
     selected, mask = imshow_select(img, 'lasso', False)
-    plt.imsave('tables7.png', selected)
-    plt.imsave('tables7_mask.png', mask)
+    plt.imsave('/home/ajay/work/msc_project/git/MSR_Project/Results/masks/walls.png', selected)
+    plt.imsave('/home/ajay/work/msc_project/git/MSR_Project/Results/masks/walls_mask.png', mask)
 
