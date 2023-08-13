@@ -155,6 +155,6 @@ if __name__ == '__main__':
 #     data = data.astype(np.uint8)
 #     print(data)
     selected, mask = imshow_select(img, 'lasso', False)
-    plt.imsave('/home/ajay/work/msc_project/git/MSR_Project/Results/masks/walls.png', selected)
-    plt.imsave('/home/ajay/work/msc_project/git/MSR_Project/Results/masks/walls_mask.png', mask)
+    plt.imsave('/home/ajay/work/msc_project/git/MSR_Project/Results/masks/tables6.png', selected)
+    plt.imsave('/home/ajay/work/msc_project/git/MSR_Project/Results/masks/tables6_mask.png', mask)
 
