@@ -1,0 +1,19 @@
+IOU - Non Polygon Filtered
+
+add probs: 0.28660287081339714
+
+add probs normalised: 0.26810747663551404
+
+dependent probs: 0.22774193548387098
+
+max counts: 0.30120481927710846
+
+IOU - Polygon Filtered
+
+add probs: 0.28862478777589134
+
+add probs normalised: 0.21377551020408164
+
+dependent probs: 0.34428024083196496
+
+max counts: 0.3566017316017316

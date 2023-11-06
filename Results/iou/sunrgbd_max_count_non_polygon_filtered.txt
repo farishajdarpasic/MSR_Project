@@ -1,0 +1,150 @@
+IOU - Non Polygon Filtered
+
+label: wall 
+ iou: 0.30120481927710846 
+ union: 1826 pixels 
+ intersection: 550 pixels
+label: floor 
+ iou: 0.0 
+ union: 353 pixels 
+ intersection: 0 pixels
+label: cabinet 
+ iou: 0.05405405405405406 
+ union: 74 pixels 
+ intersection: 4 pixels
+label: bed 
+ iou: 0.0 
+ union: 34 pixels 
+ intersection: 0 pixels
+label: chair 
+ iou: 0.0 
+ union: 190 pixels 
+ intersection: 0 pixels
+label: sofa 
+ iou: 0.0 
+ union: 360 pixels 
+ intersection: 0 pixels
+label: table 
+ iou: 0.0 
+ union: 306 pixels 
+ intersection: 0 pixels
+label: door 
+ iou: 0.2608695652173913 
+ union: 92 pixels 
+ intersection: 24 pixels
+label: window 
+ iou: 0.0 
+ union: 11 pixels 
+ intersection: 0 pixels
+label: bookshelf 
+ iou: 0.0 
+ union: 50 pixels 
+ intersection: 0 pixels
+label: picture 
+ iou: 0.0 
+ union: 27 pixels 
+ intersection: 0 pixels
+label: counter 
+ iou: 0.0 
+ union: 86 pixels 
+ intersection: 0 pixels
+label: blinds 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: desk 
+ iou: 0.010224948875255624 
+ union: 489 pixels 
+ intersection: 5 pixels
+label: shelves 
+ iou: 0.0 
+ union: 11 pixels 
+ intersection: 0 pixels
+label: curtain 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: dresser 
+ iou: 0.0 
+ union: 46035 pixels 
+ intersection: 0 pixels
+label: pillow 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: mirror 
+ iou: 0.0 
+ union: 7 pixels 
+ intersection: 0 pixels
+label: floor_mat 
+ iou: 0.0 
+ union: 50 pixels 
+ intersection: 0 pixels
+label: clothes 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: ceiling 
+ iou: 0.0 
+ union: 306 pixels 
+ intersection: 0 pixels
+label: books 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: fridge 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: tv 
+ iou: 0.0 
+ union: 35 pixels 
+ intersection: 0 pixels
+label: paper 
+ iou: 0.0 
+ union: 112 pixels 
+ intersection: 0 pixels
+label: towel 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: shower_curtain 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: box 
+ iou: 0.0 
+ union: 13 pixels 
+ intersection: 0 pixels
+label: whiteboard 
+ iou: 0.0 
+ union: 35 pixels 
+ intersection: 0 pixels
+label: person 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: night_stand 
+ iou: 0.0 
+ union: 7 pixels 
+ intersection: 0 pixels
+label: toilet 
+ iou: 0.0 
+ union: 34 pixels 
+ intersection: 0 pixels
+label: sink 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: lamp 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: bathtub 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
+label: bag 
+ iou: nan 
+ union: 0 pixels 
+ intersection: 0 pixels
